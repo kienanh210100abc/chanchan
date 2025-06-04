@@ -136,7 +136,7 @@ function App() {
         </div>
       )}
       
-      <h1 style={{ color: "rgb(255, 255, 255)", marginBottom: 30, marginTop: specialMessage ? 80 : 0 }}>💕 KienAnh & Chanchan 💕</h1>
+      <h1 style={{ color: "rgb(255, 255, 255)", marginBottom: 30, marginTop: specialMessage ? 80 : 0 }}>💕 KA & Chanchan 💕</h1>
       <div style={{
         background: "rgba(255, 255, 255, 0.9)",
         borderRadius: 15,
