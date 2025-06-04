@@ -98,8 +98,8 @@ function App() {
       textAlign: "center", 
       padding: 20, 
       fontFamily: "Arial, sans-serif",
-      backgroundImage: "url('/background.png')",
-      // background: "linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%)",
+      // backgroundImage: "url('/background.png')",
+      background: "linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%)",
       minHeight: "100vh"
     }}>
       {specialMessage && (
